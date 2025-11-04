@@ -9,3 +9,11 @@ today 3/11/25-completed demux as decoder
  -hexadecimal to binary encoder
  -combinational logic design using decoder(full adder implemntation)
  -combinational problem 
+ #today 4.11.2025
+ -sequential circuits
+ -what is clock/
+ -triggering methods
+ -diff b/t latch and flipflop
+ -s-r flipflop,jk ,d,t
+ -sr latch
+ 
